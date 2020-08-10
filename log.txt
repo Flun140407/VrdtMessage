@@ -368,3 +368,17 @@
 2020-08-10 17:07:46 2 Upload 10.2.11.45 _GlodonResource.zip
 2020-08-10 17:07:46 2 Upload 10.2.11.33 _GlodonResource.zip
 2020-08-10 17:07:46 2 Upload 10.2.11.35 _GlodonResource.zip
+2020-08-10 17:16:54 2 Upload 10.2.11.61 origin/chenkx-a_91 KB
+2020-08-10 17:16:54 2 Upload 10.2.11.45 origin/chenkx-a_91 KB
+2020-08-10 17:16:54 2 Upload 10.2.11.33 origin/chenkx-a_91 KB
+2020-08-10 17:16:54 2 Upload 10.2.11.35 origin/chenkx-a_91 KB
+2020-08-10 17:16:54 2 Upload 10.2.11.32 origin/chenkx-a_91 KB
+2020-08-10 17:16:54 2 Upload 10.2.11.47 origin/chenkx-a_91 KB
+2020-08-10 17:16:54 2 Upload 10.2.11.37 origin/chenkx-a_91 KB
+2020-08-10 17:16:58 2 Upload 10.2.11.61 origin/chenkx-a_v20200808.txt
+2020-08-10 17:16:58 2 Upload 10.2.11.45 origin/chenkx-a_v20200808.txt
+2020-08-10 17:16:58 2 Upload 10.2.11.33 origin/chenkx-a_v20200808.txt
+2020-08-10 17:16:58 2 Upload 10.2.11.35 origin/chenkx-a_v20200808.txt
+2020-08-10 17:16:58 2 Upload 10.2.11.32 origin/chenkx-a_v20200808.txt
+2020-08-10 17:16:58 2 Upload 10.2.11.47 origin/chenkx-a_v20200808.txt
+2020-08-10 17:16:58 2 Upload 10.2.11.37 origin/chenkx-a_v20200808.txt
