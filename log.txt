@@ -32,3 +32,11 @@
 2020-08-10 20:15:29 2 Deployment 10.2.11.33 _README.md succeed
 2020-08-10 20:15:29 2 Deployment 10.2.11.33 _README.md succeed
 2020-08-10 20:15:29 2 Deployment 10.2.11.33 _README.md succeed
+2020-08-10 20:18:42 2 Upload 10.2.11.61 _cmake-3.16.4.zip succeed
+2020-08-10 20:18:42 2 Upload 10.2.11.45 _cmake-3.16.4.zip succeed
+2020-08-10 20:18:43 2 Upload 10.2.11.33 _cmake-3.16.4.zip succeed
+2020-08-10 20:19:06 2 Upload 10.2.11.61 _Server.zip succeed
+2020-08-10 20:19:06 2 Upload 10.2.11.45 _Server.zip succeed
+2020-08-10 20:19:06 2 Upload 10.2.11.33 _Server.zip succeed
+2020-08-10 20:19:24 2 Deployment 10.2.11.45 _Server.zip succeed
+2020-08-10 20:19:24 2 Deployment 10.2.11.33 _Server.zip succeed
