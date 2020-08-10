@@ -448,3 +448,9 @@
 2020-08-10 18:54:08 2 Upload 10.2.11.45 _cmake-3.16.4.zip
 2020-08-10 18:54:11  Deployment 10.2.11.45 _cmake-3.16.4.zip
 2020-08-10 19:00:53 2 Upload 10.2.11.35 _cmake-3.16.4.zip
+2020-08-10 19:11:01 wangy-dg Upload 10.2.11.35 origin/chenkx-a_v20200809.txt
+2020-08-10 19:11:01  Upload 10.2.11.47 origin/chenkx-a_v20200809.txt
+2020-08-10 19:11:22  Upload 10.2.11.35 origin/v001_v20200809.txt
+2020-08-10 19:11:22  Upload 10.2.11.47 origin/v001_v20200809.txt
+2020-08-10 19:11:25  Upload 10.2.11.35 origin/v001_v20200810.txt
+2020-08-10 19:11:25  Upload 10.2.11.47 origin/v001_v20200810.txt
