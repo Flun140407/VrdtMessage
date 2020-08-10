@@ -98,3 +98,13 @@
 2020-08-10 15:16:30  Upload 10.2.11.35 _cmake-3.16.4.zip
 2020-08-10 15:21:14  Upload 10.2.11.35 _cmake-3.16.4.zip
 2020-08-10 15:31:01  Upload 10.2.11.32 _cmake-3.16.4.zip
+2020-08-10 15:52:20  Upload 10.2.11.33 origin/chenkx-a
+2020-08-10 15:52:24  Deployment 10.2.11.33 origin/chenkx-a
+2020-08-10 15:52:34  Deployment 10.2.11.33 origin/chenkx-a
+2020-08-10 15:53:01  Upload 10.2.11.33 origin/chenkx-a
+2020-08-10 15:53:12  Deployment 10.2.11.33 origin/chenkx-a
+2020-08-10 15:53:16  Upload 10.2.11.33 origin/chenkx-a
+2020-08-10 15:53:19  Upload 10.2.11.33 origin/chenkx-a
+2020-08-10 15:53:22  Deployment 10.2.11.33 origin/chenkx-a
+2020-08-10 15:53:29  Deployment 10.2.11.33 origin/chenkx-a
+2020-08-10 15:53:38  Deployment 10.2.11.33 origin/chenkx-a
