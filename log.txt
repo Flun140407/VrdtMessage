@@ -484,3 +484,4 @@
 2020-08-10 19:22:09 wangy-dg Upload 10.2.11.35 _table.xls
 2020-08-10 19:22:10 wangy-dg Upload 10.2.11.35 _table.xls
 2020-08-10 19:22:10 wangy-dg Upload 10.2.11.35 _table.xls
+2020-08-10 19:27:36 wangy-dg Upload 10.2.11.47 origin/chenkx-a_v20200808.txt
