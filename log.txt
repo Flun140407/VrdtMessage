@@ -8,3 +8,27 @@
 2020-08-10 20:06:05 2 Upload 10.2.11.33 _cmake-3.16.4.zip succeed
 2020-08-10 20:06:05 2 Upload 10.2.11.33 _cmake-3.16.4.zip
 2020-08-10 20:06:07 2 Upload 10.2.11.33 _cmake-3.16.4.zip succeed
+2020-08-10 20:14:48 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:14:57 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:14:57 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:14:57 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:01 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:01 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:01 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:01 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:04 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:05 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:05 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:05 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:06 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:06 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:06 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:07 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:07 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:07 2 Upload 10.2.11.33 _README.md succeed
+2020-08-10 20:15:28 2 Deployment 10.2.11.33 _README.md succeed
+2020-08-10 20:15:28 2 Deployment 10.2.11.33 _README.md succeed
+2020-08-10 20:15:29 2 Deployment 10.2.11.33 _README.md succeed
+2020-08-10 20:15:29 2 Deployment 10.2.11.33 _README.md succeed
+2020-08-10 20:15:29 2 Deployment 10.2.11.33 _README.md succeed
+2020-08-10 20:15:29 2 Deployment 10.2.11.33 _README.md succeed
