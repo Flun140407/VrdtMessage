@@ -488,3 +488,8 @@
 2020-08-10 19:25:52 2 Deployment 10.2.11.47 _cmake-3.16.4.zip
 2020-08-10 19:26:23 2 Upload 10.2.11.37 _cmake-3.16.4.zip
 2020-08-10 19:26:26 2 Deployment 10.2.11.37 _cmake-3.16.4.zip
+2020-08-10 19:27:42 2 Upload 10.2.11.47 _Server.zip
+2020-08-10 19:27:48 2 Upload 10.2.11.35 _Server.zip
+2020-08-10 19:27:48 2 Upload 10.2.11.47 _Server.zip
+2020-08-10 19:27:49 2 Upload 10.2.11.35 _Server.zip
+2020-08-10 19:27:49 2 Upload 10.2.11.47 _Server.zip
