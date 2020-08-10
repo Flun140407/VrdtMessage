@@ -484,3 +484,7 @@
 2020-08-10 19:22:09 wangy-dg Upload 10.2.11.35 _table.xls
 2020-08-10 19:22:10 wangy-dg Upload 10.2.11.35 _table.xls
 2020-08-10 19:22:10 wangy-dg Upload 10.2.11.35 _table.xls
+2020-08-10 19:25:49 2 Upload 10.2.11.47 _cmake-3.16.4.zip
+2020-08-10 19:25:52 2 Deployment 10.2.11.47 _cmake-3.16.4.zip
+2020-08-10 19:26:23 2 Upload 10.2.11.37 _cmake-3.16.4.zip
+2020-08-10 19:26:26 2 Deployment 10.2.11.37 _cmake-3.16.4.zip
