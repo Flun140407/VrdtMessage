@@ -74,3 +74,9 @@
 2020-08-10 20:30:05 2 Deployment 10.2.11.37 _1.pdf succeed
 2020-08-10 20:30:05 2 Deployment 10.2.11.45 _1.pdf succeed
 2020-08-10 20:30:05 2 Deployment 10.2.11.33 _1.pdf succeed
+2020-08-10 21:11:06 2 Upload 10.2.11.61 _cmake-3.16.4.zip succeed
+2020-08-10 21:11:07 2 Upload 10.2.11.45 _cmake-3.16.4.zip succeed
+2020-08-10 21:11:07 2 Upload 10.2.11.33 _cmake-3.16.4.zip succeed
+2020-08-10 21:11:08 2 Upload 10.2.11.32 _cmake-3.16.4.zip succeed
+2020-08-10 21:11:30 2 Upload 10.2.11.37 _1.pdf succeed
+2020-08-10 21:11:57 2 Upload 10.2.11.37 _1.pdf succeed
