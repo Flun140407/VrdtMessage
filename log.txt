@@ -1,3 +1,6 @@
-2020-08-10 19:23:34 2 Upload 10.2.11.47 _v20200808.txt succeed
-2020-08-10 19:23:56 2 Upload 10.2.11.47 _v20200808.txt succeed
-2020-08-10 19:24:20 2 Upload 10.2.11.47 _v20200808.txt succeed
+2020-08-10 19:30:28 2 Upload 10.2.11.32 _v20200808.txt succeed
+2020-08-10 19:30:40 2 Deployment 10.2.11.32 _v20200808.txt succeed
+2020-08-10 19:32:28 2 Upload 10.2.11.33 _1.pdf succeed
+2020-08-10 19:32:28 2 Upload 10.2.11.33 _1.pdf succeed
+2020-08-10 19:33:01 2 Upload 10.2.11.37 _1.pdf succeed
+2020-08-10 19:33:02 2 Deployment 10.2.11.37 _1.pdf succeed
