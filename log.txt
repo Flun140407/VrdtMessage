@@ -184,3 +184,5 @@
 2020-08-11 11:32:58 2 Upload 10.2.11.33 origin/chenkx-a_v20200810.txt succeed
 2020-08-11 11:33:07 2 Upload 10.2.11.33 origin/chenkx-a_v20200809.txt succeed
 2020-08-11 11:33:13 2 Upload 10.2.11.33 origin/chenkx-a_v20200808.txt succeed
+2020-08-11 11:37:05 2 Upload 10.2.11.47 origin/chenkx-a_v20200809.txt succeed
+2020-08-11 11:37:25 2 Upload 10.2.11.47 origin/chenkx-a_v20200810.txt succeed
