@@ -142,3 +142,9 @@
 2020-08-11 07:52:33 2 Upload 10.2.11.33 _cmake-3.16.4.zip succeed
 2020-08-11 07:52:34 2 Deployment 10.2.11.35 _cmake-3.16.4.zip succeed
 2020-08-11 07:52:34 2 Deployment 10.2.11.33 _cmake-3.16.4.zip succeed
+2020-08-11 08:19:31 2 Upload 10.2.11.35 _Server.zip succeed
+2020-08-11 08:19:31 2 Upload 10.2.11.33 _Server.zip succeed
+2020-08-11 08:19:33 2 Deployment 10.2.11.35 _Server.zip succeed
+2020-08-11 08:19:33 2 Deployment 10.2.11.33 _Server.zip succeed
+2020-08-11 08:33:41 2 Upload 10.2.11.37 _cmake-3.16.4.zip succeed
+2020-08-11 08:34:12 2 Upload 10.2.11.61 _cmake-3.16.4.zip succeed
