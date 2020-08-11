@@ -174,3 +174,6 @@
 2020-08-11 11:06:05 2 Upload 10.2.11.35 _GlodonResource.zip succeed
 2020-08-11 11:10:53 2 Upload 10.2.11.35 _cmake-3.16.4.zip succeed
 2020-08-11 11:11:20 2 Upload 10.2.11.47 _cmake-3.16.4.zip succeed
+2020-08-11 11:19:50 2 Upload 10.2.11.33 _1.pdf succeed
+2020-08-11 11:19:50 2 Upload 10.2.11.47 _1.pdf succeed
+2020-08-11 11:20:07 2 Deployment 10.2.11.33 _1.pdf succeed
